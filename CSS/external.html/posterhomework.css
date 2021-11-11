@@ -1,0 +1,47 @@
+div{
+    background-color: black;
+    border:solid 5px chocolate;
+    width: 200px;
+    height: 500px; 
+    margin-left:120px;
+    margin-right:100px;
+    float-left 1 px;
+}
+p{
+    color:white;
+}
+img{
+    width: 200px;
+    height:400px;
+}
+
+
+div div{
+    padding-left:50px;
+}
+  
+
+   
+
+
+#b1{
+    margin-left:300px;
+    margin-top:-1020px;
+}
+#b2{
+    margin-left:510px;
+    margin-top:-1020px;
+}
+#b3{
+    margin-left:720px;
+    margin-top:-1020px;
+
+
+}
+#b4{
+    margin-left:920px;
+    margin-top:-1020px;
+
+
+}
+

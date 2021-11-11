@@ -1,0 +1,45 @@
+.header{
+    background-color:brown;
+    padding-left: 20px;
+    height: 40px;
+    margin-top: -1px;
+    }
+    a {
+        color: #ffebcd;
+        margin-top: 20px;
+        margin-bottom: 2px;
+        padding-left: 100px;
+        font-size: xx-large;
+    }
+    p{
+        font-family: cursive;
+        color:whitesmoke;
+        font-size: large;
+    }
+    body{
+        background-image: url("Screenshot_20211029_073107.jpg");
+        height: 1500;
+    }
+    .row{
+        height: 100px;
+        width: 1000px;
+        margin-right: 20px;
+    }
+    .col{
+        margin-left: 200px;
+        margin-top: 200px;
+    }
+    .row1{
+        height: 100px;
+        width: 1000px;
+        margin-right: 20px;
+    }
+    .col1{
+        margin-left: 200px;
+        margin-top: 200px;
+    }
+    footer{
+        font-size: medium;
+        color: whitesmoke;
+        font-family: cursive;
+    }

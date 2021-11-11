@@ -1,0 +1,44 @@
+.row{
+    width: 1000px;
+    height: 1000px;
+    background-color: papayawhip;
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+   align-items: center;
+   justify-content: space-evenly;
+
+}
+.col{
+    position:relative;
+    width: 200px;
+    height: 230px;
+
+      
+
+   }
+
+   div div{
+    padding-left:20px;
+    color:white;
+   }
+
+   img{
+    width: 200px;
+    height: 100px;
+    margin-right: 20px;
+    
+   }
+.col-1{
+    background-color: cadetblue;
+   
+}
+.col-2{
+    background-color: crimson;
+}
+.col-3{
+    background-color: darkmagenta;
+}
+.col-4{
+    background-color: darkred;
+}

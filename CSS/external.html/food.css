@@ -1,0 +1,61 @@
+row{
+    background-color:peru;
+    border: peru 5px;
+
+    width: 500px;
+    height: 200px;
+  
+    position: absolute;
+    display: flex;
+
+   align-items:baseline;
+   justify-content:space-between;
+   margin-top: 10px;
+   margin-right: 100px;
+   color:white;
+   font-size: large;
+  
+}
+.col{
+    position:relative;
+    width: 1px;
+    height: 20px;
+}
+.row1{
+    
+    width: 1000px;
+    height: 2px;
+  
+    position: absolute;
+    display: flex;
+
+   align-items:baseline;
+   justify-content:space-between;
+   margin-top: 400px;
+   margin-right: 10px;
+}
+.row3{
+    width: 1000px;
+        height: 1px;
+      
+        position: absolute;
+        display: flex;
+    
+       align-items:baseline;
+       justify-content:space-between;
+       margin-top: 1200px;
+       margin-right: 10px;
+    }
+    .row4{
+        width: 1000px;
+            height: 1px;
+          
+            position: absolute;
+            display: flex;
+        
+           align-items:baseline;
+           justify-content:space-between;
+           margin-top: 1600px;
+           margin-right: 10px;
+        }
+    

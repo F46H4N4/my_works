@@ -1,0 +1,48 @@
+.row{
+    border:radius;
+    width: 600px;
+height: 500px;
+
+position: absolute;
+display: flex;
+
+align-items:baseline;
+justify-content:space-between;
+margin-top: 10px;
+margin-right: 100px;
+color:white;
+font-size: large;
+
+}
+
+.col{
+position:relative;
+width: 100px;
+height: 100px;
+}
+img{
+    margin-left: 100px;
+
+    height:250px;
+    margin-top:60px;
+
+width:200px;
+border-radius: 10px;
+}
+.col6{
+    margin-top: 350px;
+}
+h4{
+    color:black;
+    font-family: pacifico;
+    margin-left: 50px;
+}
+button{
+    margin-left: 100px;
+    border-radius: 20px;
+    width: 150px;
+    height: 30px;
+}
+.row1{
+    margin-top: 50px;
+}

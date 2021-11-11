@@ -1,0 +1,33 @@
+
+    .a{
+        border:solid 5px chocolate;
+        background-color:;
+       width: 400px;
+        height:700px; 
+        margin-left:600px;
+        margin-right:100px;
+    
+      
+        color:wheat;
+      
+        font-size: xx-large;
+    align-items: center;
+    margin-top: 70px;
+}
+body{
+    background-image: url("IMG-20211024-WA0074.jpg");
+ margin-top: 1px;
+}
+header{
+    background-color:brown;
+    padding-left: 20px;
+    height: 40px;
+    margin-top: -10px;
+    }
+    a {
+        color: #ffebcd;
+        margin-top: 20px;
+        margin-bottom: 2px;
+        padding-left: 100px;
+        font-size: xx-large;
+ 

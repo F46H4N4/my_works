@@ -1,0 +1,38 @@
+.header{
+    background-color:brown;
+    padding-left: 20px;
+    height: 40px;
+    margin-top: -1px;
+    }
+    a {
+        color: #ffebcd;
+        margin-top: 20px;
+        margin-bottom: 2px;
+        padding-left: 100px;
+        font-size: xx-large;
+ 
+    }
+    body{
+        background-image: url("IMG-20211024-WA0077.jpg");
+    }
+   
+   .a{
+    border:solid 5px chocolate;
+    background-color:rosybrown;
+   width: 500px;
+    height: 400px; 
+    margin-left:600px;
+    margin-right:100px;
+    float-left: 1 px;
+    color:crimson;
+    margin-tdarksalmonop: 40px;
+    font-size: xx-large;
+align-items: center;
+margin-top: 15px;
+
+    }
+    footer{
+        font-size: medium;
+        color: whitesmoke;
+        font-family: cursive;
+    }

@@ -1,0 +1,28 @@
+.t{
+    margin-left: 500px;
+    margin-top: 200px; 
+color:indigo;
+
+}
+body{
+    background-image: url("Screenshot_20211027_115231.jpg");
+}
+.header{
+    background-color:chocolate;
+ 
+    padding-left: 20px;
+    height: 40px;
+    margin-top: -1px;
+    }
+    a {
+        color: #ffebcd;
+        margin-top: 20px;
+        margin-bottom: 2px;
+        padding-left: 100px;
+        font-size: xx-large;
+    }
+    footer{
+        font-size: medium;
+        color: whitesmoke;
+        font-family: cursive;
+    }

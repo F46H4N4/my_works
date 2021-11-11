@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&display=swap');h1{
+    color:hsl(238,39,3);
+    text-decoration:underline;
+    text-align:center;
+}
+#a1{
+    color:rgb(140,110,90);
+
+}
+.c1{
+    color:#c77988;
+
+}
+p{
+    font-size:25px;
+    font-family:"festive"
+}

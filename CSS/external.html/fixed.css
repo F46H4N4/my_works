@@ -1,0 +1,16 @@
+div{
+    border:solid black 1px;
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    position:fixed;
+    left:200px;
+    top:300px;
+}
+body{
+
+    height:1000px;
+    background-image: url(./home.jpeg);
+    background-size:cover;
+
+}

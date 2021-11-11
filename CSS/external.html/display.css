@@ -1,0 +1,29 @@
+.row{
+    border:brown;
+    background-color: burlywood;
+    width: 600px;
+    height:300px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.col{
+    height:100px;
+    width:100px;
+    border:solid black;
+
+}
+.col-1{
+    background-color:blue;
+}
+.col-2{
+    background-color:coral;
+}
+.col-3{
+    background-color:red;
+}
+.col-4{
+    background-color:yellow;
+}
